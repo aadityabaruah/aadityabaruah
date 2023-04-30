@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aaditya</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aaditya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **A Ai Model that can Play Mario using Renforcement learning**
